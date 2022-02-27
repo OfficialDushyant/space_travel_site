@@ -1,2 +1,2 @@
 # space_travel_site
-Template to defining CSS Style guide for any project.
+Template to defining CSS design system for any project.
